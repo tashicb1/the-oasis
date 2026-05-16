@@ -1,4 +1,4 @@
-# 🏨 LuxeStay — Hotel Booking Web App
+# 🏨 TheOasis— Hotel Booking Web App
 
 Built with **React.js**, **Tailwind CSS**, and **Clerk** authentication.
 
